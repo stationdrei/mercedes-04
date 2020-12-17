@@ -1,0 +1,38 @@
+.ggskin {
+  font-family: mbr; font-size: 15px;
+}
+
+.ggskin a {
+  color: #00adef;
+  text-decoration: underline;
+}
+
+@font-face {
+            font-family:mbr;
+            src: url('./font/MBCT-Reg.woff');
+            }
+
+            @font-face{
+            font-family: Gilroy-SemiBold;
+            src: url(Gilroy_SemiBold.WOFF);
+            }
+
+            @font-face{
+            font-family: Gilroy-Light;
+            src: url(Gilroy_Light.WOFF);
+            }
+
+.bt_lobby{
+        font-family: Gilroy-SemiBold;
+        font-size: 19px;
+      }
+.info_body{
+      font-family:mbr;
+        font-size: 15px;
+        line-height: 200%;
+      }
+.info_header{
+      font-family: Gilroy-Bold;
+        font-size: 60px;
+        line-height: 100%;
+      }
