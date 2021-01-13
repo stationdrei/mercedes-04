@@ -757,7 +757,7 @@ Sie möchten mehr über den Vito erfahren? &lt;a href="https://www.mercedes-benz
         <webvr/>
         <tilesize>2048</tilesize>
         <filename>pano.xml</filename>
-        <skinfile>C:/Users/novos/Documents/GitHub/mercedes-02/simplex_Merc2.ggsk</skinfile>
+        <skinfile>$d/simplex_Merc4.ggsk</skinfile>
         <quality>95</quality>
         <skinconfiguration>
           <value id="opt_projection">false</value>
