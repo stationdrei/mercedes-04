@@ -1,7 +1,7 @@
 // Garden Gnome Software - Skin
 // Pano2VR 6.1.10/18007
 // Filename: simplex_Merc4.ggsk
-// Generated 2021-01-13T15:53:16
+// Generated 2021-01-13T16:58:41
 
 function pano2vrSkin(player,base) {
 	player.addVariable('opt_hotspot_preview', 2, true);
@@ -8795,7 +8795,7 @@ function pano2vrSkin(player,base) {
 		hs+='padding: 0px 1px 0px 1px;';
 		hs+='overflow: hidden;';
 		els.setAttribute('style',hs);
-		els.innerHTML="<a href=\"mailto:dominic.barth@daimler.com\">dominic.barth@daimler.com<\/a><br\/><a href=\"tel:+49621453572\">+49 561 58591592<\/a><br\/><a href=\"tel:+4917630993511\">+49 176 30993511<\/a>";
+		els.innerHTML="<a href=\"mailto:dominic.barth@daimler.com\">dominic.barth@daimler.com<\/a><br\/><a href=\"tel:+49621453572\">+49 621 453572<\/a><br\/><a href=\"tel:+4917630993511\">+49 176 30993511<\/a>";
 		el.appendChild(els);
 		me._info_text_bodyk.ggIsActive=function() {
 			if ((this.parentNode) && (this.parentNode.ggIsActive)) {

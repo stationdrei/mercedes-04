@@ -67,10 +67,10 @@
           <next>
             <pan>0</pan>
             <tilt>0</tilt>
-            <fov>70</fov>
+            <fov>0</fov>
           </next>
           <polygon>
-            <polystring>-320.17/20.57|-11.93/25.2|-11.57/-20.21|-319.99/-16.24</polystring>
+            <polystring>-320.17/20.57|-28.36/25.48|-28.63/-32.29|-320.68/-25.28</polystring>
             <usedefaultcolor>0</usedefaultcolor>
             <backgroundcolor>#0000ff,64</backgroundcolor>
             <bordercolor>#0000ff</bordercolor>
@@ -80,7 +80,6 @@
           <linktype>node</linktype>
           <linksubtype>unknown</linksubtype>
           <url>{node4}</url>
-          <target>0/0/70.0</target>
         </hotspot>
       </hotspots>
       <output/>
@@ -103,7 +102,7 @@
           </videorect>
           <type>video</type>
           <id>Element02</id>
-          <filename>C:/Users/novos/work/Mercedes/20-12-Messe/MP4/01-13-patches/04-Mannheim.mp4</filename>
+          <filename>C:/Users/novos/work/Mercedes/20-12-Messe/MP4/01-13-patches/m04.m4v</filename>
           <mode>1</mode>
           <nodechangekeep>0</nodechangekeep>
           <locked>1</locked>
