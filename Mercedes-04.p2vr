@@ -1,6 +1,6 @@
 <?xml version='1.0' encoding='utf-8'?>
 <!-- Pano2VR project file  -->
-<pano2vrconfig version="6.1.10" rev="18007">
+<pano2vrconfig rev="18007" version="6.1.10">
   <tour>
     <panorama>
       <id>node1</id>
@@ -402,7 +402,11 @@ Sie möchten mehr über den Vito erfahren? &lt;a href="https://www.mercedes-benz
           <type>point</type>
           <id>Point08</id>
           <title>Sie möchten mehr über den EQV erfahren?</title>
-          <description>Dann klicken sie &lt;a href=https://eqv.mercedes-benz.de/?ef_id=Cj0KCQiA-rj9BRCAARIsANB_4ADqDoO8Re0DnMxxqNJsw-mPaO8iCLMywQxyfzMvSMMEu_Wu0DeHC7YaAkJlEALw_wcB:G:s&amp;s_kwcid=AL!3888!3!437408622435!e!!g!!eqv&amp;csref=mc-sem_cn-MB_EQV_Brand_ci-Google_si-g_pi-kwd-343382295766_cri-437408622435_ai-eqv&amp;kpid=go_cmp-8619295423_adg-87161355579_ad-437408622435_kwd-343382295766_dev-c_ext-" target="_blank">hier&lt;/a>oder wenden Sie sich gleich telefonisch an mich unter &lt;a href="tel:+496131367526">:+49 (6131) 367-526&lt;/a> oder per Mail an &lt;a href="mailto:kevin.danner@daimler.com">kevin.danner@daimler.com&lt;/a> Ich freue mich auf Sie!</description>
+          <description>Dann klicken sie &lt;a href=https://eqv.mercedes-benz.de/?ef_id=Cj0KCQiA-rj9BRCAARIsANB_4ADqDoO8Re0DnMxxqNJsw-mPaO8iCLMywQxyfzMvSMMEu_Wu0DeHC7YaAkJlEALw_wcB:G:s&amp;s_kwcid=AL!3888!3!437408622435!e!!g!!eqv&amp;csref=mc-sem_cn-MB_EQV_Brand_ci-Google_si-g_pi-kwd-343382295766_cri-437408622435_ai-eqv&amp;kpid=go_cmp-8619295423_adg-87161355579_ad-437408622435_kwd-343382295766_dev-c_ext-" target="_blank">hier&lt;/a>oder wenden Sie sich gleich telefonisch an mich unter: &lt;a href="tel:+49621453572">0621 453572&lt;/a> oder per Mail an &lt;a href="mailto:dominic.barth@daimler.com">dominic.barth@daimler.com&lt;/a> Ich freue mich auf Sie!
+
+&lt;a href="mailto:dominic.barth@daimler.com">dominic.barth@daimler.com&lt;/a>
+&lt;a href="tel:+49621453572">0621 453572&lt;/a>
+&lt;a href="tel:+491608672419 ">0160 8672419&lt;/a></description>
           <linktype>url</linktype>
           <linksubtype>unknown</linksubtype>
           <skinid>ht_info_noico</skinid>
@@ -775,6 +779,7 @@ Sie möchten mehr über den Vito erfahren? &lt;a href="https://www.mercedes-benz
         </skincolorsconfiguration>
         <hideaboutbox>1</hideaboutbox>
       </htmlcss>
+      <placeidcache>{"entries":[]}</placeidcache>
     </output>
     <streetview/>
     <streetviewproject/>
