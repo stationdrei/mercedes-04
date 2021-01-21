@@ -1,6 +1,6 @@
 <?xml version='1.0' encoding='utf-8'?>
 <!-- Pano2VR project file  -->
-<pano2vrconfig rev="18007" version="6.1.10">
+<pano2vrconfig version="6.1.10" rev="18007">
   <tour>
     <panorama>
       <id>node1</id>
@@ -102,7 +102,7 @@
           </videorect>
           <type>video</type>
           <id>Element02</id>
-          <filename>C:/Users/novos/work/Mercedes/20-12-Messe/MP4/01-20-patches/04p.mp4</filename>
+          <filename>C:/Users/novos/work/Mercedes/20-12-Messe/MP4/01-20-patches/intro_patch_Mercedes_04.mp4</filename>
           <mode>1</mode>
           <nodechangekeep>0</nodechangekeep>
           <locked>1</locked>
@@ -266,7 +266,7 @@
           <id>Point02</id>
           <title>Der Sprinter.</title>
           <description>Unser Flaggschiff ist nicht nur Namensgeber einer ganzen Fahrzeuggattung. Der Sprinter überzeugt mit jeder Generation aufs Neue durch zahlreiche Innovationen und Extras, die Ihnen das Leben so angenehm wie möglich machen.
-Sie möchten mehr über den Sprinter erfahren? &lt;a href="https://www.mercedes-benz-vans.de" target="_blank">Erfahren Sie mehr über den Citan auf unserer Webseite.&lt;/a></description>
+Sie möchten mehr über den Sprinter erfahren? &lt;a href="https://www.mercedes-benz-vans.de" target="_blank">Erfahren Sie mehr über den Sprinter auf unserer Webseite.&lt;/a></description>
           <linktype>url</linktype>
           <linksubtype>unknown</linksubtype>
           <target>_blank</target>
@@ -294,7 +294,7 @@ Sie möchten mehr über den Sprinter erfahren? &lt;a href="https://www.mercedes-
           <id>Point03</id>
           <title>Die V-Klasse.</title>
           <description>Unsere Großraumlimousine ist Business- und Freizeit-Van in einem. Genießen Sie die V-Klasse als komfortablen Family Van, Shuttlebus fürs Business oder stilvolles Fahrzeug für Freizeit und Abenteuer.
-Sie möchten mehr über die V-Klasse erfahren? &lt;a href="https://www.mercedes-benz-vans.de" target="_blank">Erfahren Sie mehr über den Citan auf unserer Webseite.&lt;/a></description>
+Sie möchten mehr über die V-Klasse erfahren? &lt;a href="https://www.mercedes-benz-vans.de" target="_blank">Erfahren Sie mehr über die V-Klasse auf unserer Webseite.&lt;/a></description>
           <linktype>url</linktype>
           <linksubtype>unknown</linksubtype>
           <skinid>ht_info_noico</skinid>
@@ -321,7 +321,7 @@ Sie möchten mehr über die V-Klasse erfahren? &lt;a href="https://www.mercedes-
           <id>Point04</id>
           <title>Der Marco Polo</title>
           <description>Unser Reisemobil für alle, die den Geschmack von Freiheit und Abenteuer lieben, aber auch auf Reisen nicht auf höchsten Komfort und innovative Technik verzichten wollen.
-Sie möchten mehr über den Marco Polo erfahren? &lt;a href="https://www.mercedes-benz-vans.de" target="_blank">Erfahren Sie mehr über den Citan auf unserer Webseite.&lt;/a></description>
+Sie möchten mehr über den Marco Polo erfahren? &lt;a href="https://www.mercedes-benz-vans.de" target="_blank">Erfahren Sie mehr über den Marco Polo auf unserer Webseite.&lt;/a></description>
           <linktype>url</linktype>
           <linksubtype>unknown</linksubtype>
           <skinid>ht_info_noico</skinid>
@@ -375,7 +375,7 @@ Sie möchten mehr über den Marco Polo erfahren? &lt;a href="https://www.mercede
           <id>Point06</id>
           <title>Der Vito.</title>
           <description>Unser Allrounder. Ob als Kastenwagen, Mixto oder Tourer: Der Vito ist für jeden Bedarf gerüstet und ein echtes Arbeitstier. Natürlich in Mercedes-Benz Qualität, damit die Arbeit auch Spaß macht.
-Sie möchten mehr über den Vito erfahren? &lt;a href="https://www.mercedes-benz-vans.de" target="_blank">Erfahren Sie mehr über den Citan auf unserer Webseite.&lt;/a></description>
+Sie möchten mehr über den Vito erfahren? &lt;a href="https://www.mercedes-benz-vans.de" target="_blank">Erfahren Sie mehr über den Vito auf unserer Webseite.&lt;/a></description>
           <linktype>url</linktype>
           <linksubtype>unknown</linksubtype>
           <target>_blank</target>
@@ -429,7 +429,7 @@ Ich freue mich auf Sie!</description>
           <type>point</type>
           <id>Point07</id>
           <title>Die eVans.</title>
-          <description>&lt;a href="https://www.mercedes-benz-vans.de" target="_blank">Erfahren Sie mehr über den Citan auf unserer Webseite.&lt;/a></description>
+          <description>&lt;a href="https://www.mercedes-benz-vans.de" target="_blank">Erfahren Sie mehr über unsere eVans auf unserer Webseite.&lt;/a></description>
           <linktype>url</linktype>
           <linksubtype>unknown</linksubtype>
           <skinid>ht_info_noico</skinid>
