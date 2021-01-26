@@ -429,7 +429,7 @@ Ich freue mich auf Sie!</description>
           <type>point</type>
           <id>Point07</id>
           <title>Die eVans.</title>
-          <description>&lt;a href="https://www.mercedes-benz-vans.de" target="_blank">Erfahren Sie mehr über unsere eVans auf unserer Webseite.&lt;/a></description>
+          <description>Unsere eVans begleiten Sie auf dem Weg in eine emissionsfreie Zukunft.Der eVito bietet als Kastenwagen oder Tourer mit vielen Varianten und bedarfsgerechten Lösungen alles, was Sie sich für Ihr Business und eine emissionsfreie Zukunft wünschen. Falls Sie etwas mehr Platz benötigen: unseren großen Transporter gibt es ebenfalls mit elektrischem Antrieb: der eSprinter. &lt;a href="https://www.mercedes-benz-vans.de" target="_blank">Erfahren Sie mehr über unsere eVans auf unserer Webseite.&lt;/a></description>
           <linktype>url</linktype>
           <linksubtype>unknown</linksubtype>
           <skinid>ht_info_noico</skinid>
@@ -757,7 +757,7 @@ Ich freue mich auf Sie!</description>
         <webvr/>
         <tilesize>2048</tilesize>
         <filename>pano.xml</filename>
-        <skinfile>$d/simplex_Merc4.ggsk</skinfile>
+        <skinfile>$d/simplex_Merc4_NewInfo.ggsk</skinfile>
         <quality>95</quality>
         <skinconfiguration>
           <value id="opt_projection">false</value>
