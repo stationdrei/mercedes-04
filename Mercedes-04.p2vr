@@ -1,6 +1,6 @@
 <?xml version='1.0' encoding='utf-8'?>
 <!-- Pano2VR project file  -->
-<pano2vrconfig version="6.1.10" rev="18007">
+<pano2vrconfig rev="18007" version="6.1.10">
   <tour>
     <panorama>
       <id>node1</id>
@@ -102,7 +102,7 @@
           </videorect>
           <type>video</type>
           <id>Element02</id>
-          <filename>C:/Users/novos/work/Mercedes/20-12-Messe/MP4/01-20-patches/intro_patch_Mercedes_04.mp4</filename>
+          <filename>C:/Users/novos/work/Mercedes/20-12-Messe/MP4/01-20-patches/Alt/04.mp4</filename>
           <mode>1</mode>
           <nodechangekeep>0</nodechangekeep>
           <locked>1</locked>
@@ -429,7 +429,8 @@ Ich freue mich auf Sie!</description>
           <type>point</type>
           <id>Point07</id>
           <title>Die eVans.</title>
-          <description>Unsere eVans begleiten Sie auf dem Weg in eine emissionsfreie Zukunft.Der eVito bietet als Kastenwagen oder Tourer mit vielen Varianten und bedarfsgerechten Lösungen alles, was Sie sich für Ihr Business und eine emissionsfreie Zukunft wünschen. Falls Sie etwas mehr Platz benötigen: unseren großen Transporter gibt es ebenfalls mit elektrischem Antrieb: der eSprinter. &lt;a href="https://www.mercedes-benz-vans.de" target="_blank">Erfahren Sie mehr über unsere eVans auf unserer Webseite.&lt;/a></description>
+          <description>Unsere eVans begleiten Sie auf dem Weg in eine emissionsfreie Zukunft.
+Der eVito bietet als Kastenwagen oder Tourer mit vielen Varianten und bedarfsgerechten Lösungen alles, was Sie sich für Ihr Business und eine emissionsfreie Zukunft wünschen. Falls Sie etwas mehr Platz benötigen: unseren großen Transporter gibt es ebenfalls mit elektrischem Antrieb: der eSprinter. &lt;a href="https://www.mercedes-benz-vans.de" target="_blank">Erfahren Sie mehr über unsere eVans auf unserer Webseite.&lt;/a></description>
           <linktype>url</linktype>
           <linksubtype>unknown</linksubtype>
           <skinid>ht_info_noico</skinid>
@@ -754,7 +755,9 @@ Ich freue mich auf Sie!</description>
         </flyintransition>
         <hotspottext/>
         <hotspotstyle/>
-        <webvr/>
+        <webvr>
+          <enabled>0</enabled>
+        </webvr>
         <tilesize>2048</tilesize>
         <filename>pano.xml</filename>
         <skinfile>$d/simplex_Merc4_NewInfo.ggsk</skinfile>
@@ -775,6 +778,7 @@ Ich freue mich auf Sie!</description>
           <value id="Tooltip Text Foreground">4294967295</value>
         </skincolorsconfiguration>
         <hideaboutbox>1</hideaboutbox>
+        <leveltilesize>1200</leveltilesize>
       </htmlcss>
       <placeidcache>{"entries":[]}</placeidcache>
     </output>
