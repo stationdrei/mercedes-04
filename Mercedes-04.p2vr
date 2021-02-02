@@ -1,6 +1,6 @@
 <?xml version='1.0' encoding='utf-8'?>
 <!-- Pano2VR project file  -->
-<pano2vrconfig rev="18007" version="6.1.10">
+<pano2vrconfig version="6.1.10" rev="18007">
   <tour>
     <panorama>
       <id>node1</id>
@@ -186,7 +186,7 @@
           </imagepatch>
         </patch>
         <type>auto</type>
-        <filename>C:\Users\novos\work\Mercedes\20-12-Messe\Render\12-03\All-Manheim.png</filename>
+        <filename>C:\Users\novos\work\Mercedes\20-12-Messe\Render\12-03\Manheim1.png</filename>
         <videotype>equi</videotype>
         <levelpitch>0</levelpitch>
         <levelroll>0</levelroll>
