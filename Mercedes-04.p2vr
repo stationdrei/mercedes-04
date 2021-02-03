@@ -1,6 +1,6 @@
 <?xml version='1.0' encoding='utf-8'?>
 <!-- Pano2VR project file  -->
-<pano2vrconfig version="6.1.10" rev="18007">
+<pano2vrconfig rev="18007" version="6.1.10">
   <tour>
     <panorama>
       <id>node1</id>
@@ -761,7 +761,7 @@ Der eVito bietet als Kastenwagen oder Tourer mit vielen Varianten und bedarfsger
         <tilesize>2048</tilesize>
         <filename>pano.xml</filename>
         <skinfile>$d/simplex_Merc4_NewInfo.ggsk</skinfile>
-        <quality>95</quality>
+        <quality>94</quality>
         <skinconfiguration>
           <value id="opt_projection">false</value>
           <value id="vis_thumbnail_menu_show">true</value>
