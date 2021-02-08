@@ -62,7 +62,7 @@
     </hotspots>
     <media>
       <image height="496" rotz="0.000" fov="19.010" roty="0.000" pan="19.000" rotx="0.000" width="448" id="Element01" clickmode="0" handcursor="0" tilt="0.000" stretch="1.000">
-        <source url="media/04--man1.png"/>
+        <source url="media/04--man.png"/>
       </image>
     </media>
     <transition blendtime="1" zoomin="0" enabled="0" zoomafteroutfov="20" zoomfov="20" zoomout="0" type="crossdissolve" zoomoutpause="1" zoomafterinfov="90" blendcolor="0x000000" softedge="0" zoomspeed="2"/>
