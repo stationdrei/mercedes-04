@@ -5,22 +5,7 @@
     <panorama>
       <id>node1</id>
       <input>
-        <patch>
-          <imagepatch>
-            <pan>0</pan>
-            <tilt>0</tilt>
-            <fov>54.87</fov>
-            <roll>0</roll>
-            <aspectratio>1</aspectratio>
-            <applyafterlevelling>0</applyafterlevelling>
-            <locked>1</locked>
-            <quality>90</quality>
-            <filename>../mercedes-02/patches/intro_patch.psd</filename>
-            <type>image</type>
-            <blurintensity>10</blurintensity>
-            <lastmodified>2020-12-17T09:58:37</lastmodified>
-          </imagepatch>
-        </patch>
+        <patch/>
         <type>auto</type>
         <filename>C:\Users\novos\work\Mercedes\20-12-Messe\Render\11-18\intro.png</filename>
         <videotype>equi</videotype>
