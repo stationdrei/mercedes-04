@@ -1,7 +1,7 @@
 // Garden Gnome Software - Skin
 // Pano2VR 6.1.10/18007
 // Filename: simplex_Merc4_NewInfo.ggsk
-// Generated 2021-02-09T17:14:38
+// Generated 2021-02-09T17:29:59
 
 function pano2vrSkin(player,base) {
 	player.addVariable('opt_hotspot_preview', 2, true);
@@ -11332,6 +11332,31 @@ function pano2vrSkin(player,base) {
 		me._infoverkaufer_drin.appendChild(me._contact);
 		me._information.appendChild(me._infoverkaufer_drin);
 		me.divSkin.appendChild(me._information);
+		el=me._config=document.createElement('div');
+		el.ggId="config";
+		el.ggParameter={ rx:0,ry:0,a:0,sx:1,sy:1 };
+		el.ggVisible=true;
+		el.className="ggskin ggskin_container ";
+		el.ggType='container';
+		hs ='';
+		hs+='height : 20px;';
+		hs+='left : 29px;';
+		hs+='position : absolute;';
+		hs+='top : 45px;';
+		hs+='visibility : inherit;';
+		hs+='width : 100px;';
+		hs+='pointer-events:none;';
+		el.setAttribute('style',hs);
+		el.style[domTransform + 'Origin']='50% 50%';
+		me._config.ggIsActive=function() {
+			return false;
+		}
+		el.ggElementNodeId=function() {
+			return player.getCurrentNode();
+		}
+		me._config.ggUpdatePosition=function (useTransition) {
+		}
+		me.divSkin.appendChild(me._config);
 		me._popup_video_file.ggVideoSource = 'media/';
 		me._popup_video_file.ggVideoNotLoaded = true;
 		me._popup_video_url.ggVideoSource = '';
@@ -11372,6 +11397,21 @@ function pano2vrSkin(player,base) {
 				skin.updateSize(skin.divSkin);
 			}
 			me._thumbnail_cloner_mobile.ggUpdate();
+			if (
+				(
+					((player.getViewerSize().width <= 400))
+				)
+			) {
+				var params = {
+							   pan: 0,
+							   tilt: 0,
+							   fov: 90,
+							   projection: -1,
+							   timingFunction: 3,
+							   speed: 0
+				};
+				player.moveToEx(params);
+			}
 		});
 		player.addListener('imagesready', function() {
 			me._loadingvideo.style[domTransition]='none';
