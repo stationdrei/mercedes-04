@@ -89,7 +89,7 @@
         <sound>
           <position>
             <pan>0</pan>
-            <tilt>0</tilt>
+            <tilt>1</tilt>
           </position>
           <videorect>
             <rotx>0</rotx>
@@ -102,10 +102,10 @@
           </videorect>
           <type>video</type>
           <id>Element02</id>
-          <filename>C:/Users/novos/work/Mercedes/20-12-Messe/MP4/01-20-patches/Alt/04.mp4</filename>
+          <filename>C:/Users/novos/work/Mercedes/20-12-Messe/MP4/02-09-Patches/intro_patch_Mercedes_04.mp4</filename>
           <mode>1</mode>
           <nodechangekeep>0</nodechangekeep>
-          <locked>1</locked>
+          <locked>0</locked>
           <pansize>10</pansize>
           <tiltsize>10</tiltsize>
           <fieldsize>90</fieldsize>
@@ -120,7 +120,7 @@
         <sound>
           <position>
             <pan>0</pan>
-            <tilt>0</tilt>
+            <tilt>1</tilt>
           </position>
           <videorect>
             <rotx>0</rotx>
@@ -133,10 +133,10 @@
           </videorect>
           <type>image</type>
           <id>Element01</id>
-          <filename>C:/Users/novos/work/Mercedes/20-12-Messe/MP4/12-17-patches/intro_patch_blank (0-00-00-010).png</filename>
+          <filename>C:/Users/novos/work/Mercedes/20-12-Messe/MP4/02-09-Patches/intro_patch_blank.png</filename>
           <mode>0</mode>
           <nodechangekeep>0</nodechangekeep>
-          <locked>1</locked>
+          <locked>0</locked>
           <pansize>10</pansize>
           <tiltsize>10</tiltsize>
           <fieldsize>90</fieldsize>
