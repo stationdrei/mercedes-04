@@ -1,6 +1,6 @@
 <?xml version='1.0' encoding='utf-8'?>
 <!-- Pano2VR project file  -->
-<pano2vrconfig rev="18007" version="6.1.10">
+<pano2vrconfig version="6.1.10" rev="18007">
   <tour>
     <panorama>
       <id>node1</id>
@@ -361,8 +361,9 @@
           <polygon/>
           <type>point</type>
           <id>Point08</id>
-          <title>Sie möchten mehr über den EQV erfahren?</title>
-          <description>Dann klicken sie &lt;a href=https://eqv.mercedes-benz.de/?ef_id=Cj0KCQiA-rj9BRCAARIsANB_4ADqDoO8Re0DnMxxqNJsw-mPaO8iCLMywQxyfzMvSMMEu_Wu0DeHC7YaAkJlEALw_wcB:G:s&amp;s_kwcid=AL!3888!3!437408622435!e!!g!!eqv&amp;csref=mc-sem_cn-MB_EQV_Brand_ci-Google_si-g_pi-kwd-343382295766_cri-437408622435_ai-eqv&amp;kpid=go_cmp-8619295423_adg-87161355579_ad-437408622435_kwd-343382295766_dev-c_ext-" target="_blank">hier&lt;/a> oder wenden Sie sich gleich telefonisch an mich unter: &lt;a href="tel:+49621453572">0621 453572&lt;/a> oder per Mail an &lt;a href="mailto:dominic.barth@daimler.com">dominic.barth@daimler.com&lt;/a>
+          <title>Erfahren Sie mehr über den EQV!</title>
+          <description>Mehr Infos zum EQV erhalten Sie &lt;a href=https://eqv.mercedes-benz.de/?ef_id=Cj0KCQiA-rj9BRCAARIsANB_4ADqDoO8Re0DnMxxqNJsw-mPaO8iCLMywQxyfzMvSMMEu_Wu0DeHC7YaAkJlEALw_wcB:G:s&amp;s_kwcid=AL!3888!3!437408622435!e!!g!!eqv&amp;csref=mc-sem_cn-MB_EQV_Brand_ci-Google_si-g_pi-kwd-343382295766_cri-437408622435_ai-eqv&amp;kpid=go_cmp-8619295423_adg-87161355579_ad-437408622435_kwd-343382295766_dev-c_ext-" target="_blank">hier&lt;/a>, telefonisch unter &lt;a href="tel:+49621453572">0621 453572&lt;/a>
+oder per Mail an &lt;a href="mailto:dominic.barth@daimler.com">dominic.barth@daimler.com&lt;/a>
 Ich freue mich auf Sie!</description>
           <linktype>url</linktype>
           <linksubtype>unknown</linksubtype>
